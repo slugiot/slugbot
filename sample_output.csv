@@ -1,0 +1,4 @@
+text,Affective Processes,All Punctuation,Articles,Auxiliary Verbs,Common Verbs,Dictionary Words,Exclamation Marks,Feel,First Person Singular,Insight,Motion,Negative Emotion,Other Punctuation,Perceptual Processes,Personal Pronouns,Positive Emotion,Quote Marks,Relativity,See,Sentences,Six Letter Words,Space,Time,Total Pronouns,Unique Words,Word Count,Words Per Sentence,achiev,adj,cogproc,drives,focuspast,focuspresent,function,power,prep,reward
+" ""The quick brown fox jumped over the lazy dog.""",1,1,2,0.0,1,7,0.0,0.0,0.0,0.0,1,1,1,1,0.0,0.0,1,3,1,1,0.0,1,1,0.0,8,9,9.0,1,1,0.0,2,1,0.0,3,1,1,0.0
+" ""I feel great today!""",1,1,0.0,0.0,1,5,1,1,1,1,0.0,0.0,0.0,1,1,1,1,2,0.0,1,0.0,0.0,2,1,4,4,4.0,0.0,1,1,1,0.0,3,1,0.0,0.0,1
+" ""I had a terrible morning.""",1,1,1,1,1,6,0.0,0.0,1,0.0,0.0,1,1,0.0,1,0.0,1,2,0.0,1,2,0.0,2,1,5,5,5.0,0.0,1,0.0,0.0,1,0.0,3,0.0,0.0,0.0
